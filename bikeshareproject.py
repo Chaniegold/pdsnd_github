@@ -162,7 +162,7 @@ def user_stats(df):
         print('-'*40)  
         
 def raw_input(df):
-    view_data = input("Would you like to view 5 rows of individual trip data? Enter yes or no? ").lower()
+    view_data = input("Do you prefer to view 5 rows of individual trip data? Enter yes or no? ").lower()
     #view_display = input("Do you wish to continue?: ").lower()
     start_loc = 0
     stop_loc = 4
