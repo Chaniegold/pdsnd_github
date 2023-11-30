@@ -15,9 +15,6 @@ Bikeshare.py
 
 ### Credits
 These two sites were especially helpful in helping me debug my code.
-* [Stack Overflow](stackoverflow.com)
-* [Geeks For Geeks](geeksforgeeks.com)
-
-
-
+* [Stack Overflow](https://stackoverflow.com/)
+* [Geeks For Geeks](https://www.geeksforgeeks.org)
 
