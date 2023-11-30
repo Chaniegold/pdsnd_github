@@ -1,16 +1,19 @@
 
+>
+### 11/29/2023
 
-### Bikeshare.py
-# 11/29/2023
+### Bikeshare
 
-## Description
-A user interactive program that explores data from the Bikeshare bike rental company.
+
+### Description
+The Bikeshare project is a user interactive program that provides data on a bike rental company.
 
 ### Files used
-Bikeshare.py
+bikeshare.py
 
 ### Credits
-These two sites were especially helpful in helping me debug my code.
-[Stack Overflow] <stackoverflow.com>
-[Geeks For Geeks] <geeksforgeeks.com>
+These aided me in debugging my code
+[Stack Overflow]<stackoverflow.com>
+[Geeks for Geeks]<geeksforgeeks.org>
+
 
